@@ -1,0 +1,7 @@
+../Core/Src/main.c:14:7:calculate_voltage	1
+../Core/Src/main.c:23:5:main	2
+../Core/Src/main.c:47:6:SystemClock_Config	4
+../Core/Src/main.c:82:6:MX_ADC1_Init	5
+../Core/Src/main.c:126:6:MX_LPUART1_UART_Init	2
+../Core/Src/main.c:141:6:MX_GPIO_Init	1
+../Core/Src/main.c:158:6:Error_Handler	1
